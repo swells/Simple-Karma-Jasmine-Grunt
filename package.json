@@ -1,0 +1,25 @@
+{
+  "name": "hello-world",
+  "description": "Simple Karam/Jasmine/Grunt Demo",
+  "keywords": ["karam", "jasmine", "Grunt", "hello", "world"],
+  "version": "0.1.0",
+  "homepage": "https://github.com/swells/hello-world.git",
+  "repository": "https://github.com/swells/hello-world.git",
+  "author": "Sean Wells <sean.wells.sc@gmail.ca>",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.9",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-karma": "0.5.0",
+    "karma-junit-reporter": "~0.0.2"
+  },
+  "scripts": {
+    "test": "node_modules/grunt-cli/bin/grunt test"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
