@@ -1,8 +1,6 @@
-![revo logo](http://www.revolutionanalytics.com/img/logo_revolutionanalytics.gif)
+## Karma HelloWorld (hello-world)
 
-## HelloWorld (hello-world)
-
-> A Simple Karam/Jasmine/Grunt Demo to show all working together.
+> A Simple Karma/Jasmine/Grunt Demo to show all working together.
 
 ## Features
 
@@ -12,9 +10,9 @@
 
 ## Installation
 
-Clone the HelloWorld epo, then install the dev dependencies.
+Clone the HelloWorld repo, then install the dev dependencies.
 
-	$ 
+	$ https://github.com/swells/hello-world.git
 	$ cd hello-world
 	$ npm install
 
