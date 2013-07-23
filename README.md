@@ -61,7 +61,7 @@ OR (if CLI installed globally: npm install -g grunt-cli)
     $ cd hello-world
     $ grunt test    
 
-That is it. Nothing very interesting other than Karam/Jasmine/Grunt work 
+That is it. Nothing very interesting other than Karma/Jasmine/Grunt work 
 together.
 
 ## Contributors
