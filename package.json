@@ -1,6 +1,6 @@
 {
   "name": "hello-world",
-  "description": "Simple Karam/Jasmine/Grunt Demo",
+  "description": "Simple Karma/Jasmine/Grunt Demo",
   "keywords": ["karam", "jasmine", "Grunt", "hello", "world"],
   "version": "0.1.0",
   "homepage": "https://github.com/swells/hello-world.git",
