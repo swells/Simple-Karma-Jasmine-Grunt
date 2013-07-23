@@ -57,6 +57,7 @@ OR
     $ ./node_modules/grunt-cli/bin/grunt test
 
 OR (if CLI installed globally: npm install -g grunt-cli)
+
     $ cd hello-world
     $ grunt test    
 
