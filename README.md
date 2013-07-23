@@ -12,7 +12,7 @@
 
 Clone the HelloWorld repo, then install the dev dependencies.
 
-	$ https://github.com/swells/hello-world.git
+	$ git clone https://github.com/swells/hello-world.git
 	$ cd hello-world
 	$ npm install
 
